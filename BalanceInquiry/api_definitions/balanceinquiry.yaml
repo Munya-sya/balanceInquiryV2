@@ -14,7 +14,7 @@ paths:
       tags:
         - BalanceInquiry
       description: Mock Balance Inquiry
-      operationId: KCB Mock Balance Inquiry
+      operationId:  Mock Balance Inquiry
       requestBody:
         content:
           application/json:
